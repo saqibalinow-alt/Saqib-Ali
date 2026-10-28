@@ -1,0 +1,6 @@
+{
+  "name": "Nova Striker: Arcade Space Combat",
+  "description": "Fast-paced arcade space combat game featuring crisp vector action, procedural audio, responsive controls, wave encounters, and score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
